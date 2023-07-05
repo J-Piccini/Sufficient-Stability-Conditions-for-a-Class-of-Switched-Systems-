@@ -1,6 +1,6 @@
 # Sufficient Stability Conditions for a Class of Switched Systems with Multiple Steady States
 
-Some of the examples [for this article](https://ieeexplore.ieee.org/document/10159414).
+Code used for some of the examples presented [in this article](https://ieeexplore.ieee.org/document/10159414).
 
 ```
 @ARTICLE{10159414,
