@@ -2,7 +2,7 @@
 
 Code used for some of the examples presented [in this article](https://ieeexplore.ieee.org/document/10159414).
 
-The study was carried out within the [Sleep Revolution Project](https://cordis.europa.eu/project/id/965417). This project has received funding from European Union’s Horizon 2020 Research and Innovation Programme under grant agreement no. 965417.
+This project has received funding from European Union’s Horizon 2020 Research and Innovation Programme under grant agreement no. 965417, the [Sleep Revolution Project](https://cordis.europa.eu/project/id/965417).
 
 ```
 @ARTICLE{10159414,
