@@ -24,8 +24,8 @@ l = 2;
 vec_V = monomials(x, 2 * l);
 vec_p = monomials(x, 2 : 2 : 2);
 
-[prog, V] = sospolymatrixvar(prog, vec_V,[1 1]);
-[prog, p1] = sospolymatrixvar(prog, vec_p,[1 1]);
+[prog, V] = sospolymatrixvar(prog, vec_V,[1 1]); % Creating a SOS Lyapunov function with polynomials defined in vec_V
+[prog, p1] = sospolymatrixvar(prog, vec_p,[1 1]); % Creating SOS p_i polynomials with degrees specified in vecP
 [prog, p2] = sospolymatrixvar(prog, vec_p,[1 1]);
 [prog, p3] = sospolymatrixvar(prog, vec_p,[1 1]);
 
